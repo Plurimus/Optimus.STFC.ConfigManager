@@ -19,7 +19,3 @@ The mod's logic is
 
 ## Result screenshots
 ![ComMod Configuration manager gif](Screenshot.gif)
-![ComMod Configuration manager png 1](Screenshot1.PNG)
-![ComMod Configuration manager png 2](Screenshot2.PNG)
-![ComMod Configuration manager png 3](Screenshot3.PNG)
-![ComMod Configuration manager png 4](Screenshot4.PNG)
