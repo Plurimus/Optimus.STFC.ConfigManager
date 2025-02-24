@@ -19,3 +19,10 @@ The mod's logic is
 
 ## Result screenshots
 ![ComMod Configuration manager gif](Screenshot.gif)
+
+
+## Used libraries
+
+- [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - v0.17.0
+- [BepInEx/BepInEx.IL2CPP](https://nuget.bepinex.dev/packages/BepInEx.IL2CPP) - v6.0.0-pre.1
+- [BepInEx/BepInEx.PluginInfoProps](https://nuget.bepinex.dev/packages/BepInEx.PluginInfoProps) - v2.1.0
