@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optimus.STFC.ConfigManager", "Optimus.STFC.ConfigManager.csproj", "{DA24DDA4-6243-48D6-8853-851058EC6E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Debug|x64.ActiveCfg = Debug|x64
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Debug|x64.Build.0 = Debug|x64
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Release|x64.ActiveCfg = Release|x64
+		{DA24DDA4-6243-48D6-8853-851058EC6E65}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B51764F-6CCD-47F7-BF28-C5DEA1CC8016}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>Optimus.STFC.ConfigManager</AssemblyName>
+    <Description>Configuration Managaer for STFC BepInEx plugins</Description>
+    <Version>1.0.1</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Optimus.STFC.ConfigManager</RootNamespace>
+	  <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	  <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="BepInEx.IL2CPP" Version="6.0.0-pre.1" IncludeAssets="compile" />
+	  <PackageReference Include="BepInEx.PluginInfoProps" Version="2.1.0" />
+    <PackageReference Include="Tomlyn" Version="0.17.0" IncludeAssets="compile" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>..\UnhollowedDlls\Assembly-CSharp.dll</HintPath>
+		</Reference>
+		<Reference Include="Digit.Client.PrimeLib.Runtime">
+			<HintPath>..\UnhollowedDlls\Digit.Client.PrimeLib.Runtime.dll</HintPath>
+		</Reference>
+		<Reference Include="Digit.Engine.Login.Core">
+			<HintPath>..\UnhollowedDlls\Digit.Engine.Login.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="Digit.Engine.Login.Prime">
+			<HintPath>..\UnhollowedDlls\Digit.Engine.Login.Prime.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2Cppmscorlib">
+			<HintPath>..\UnhollowedDlls\Il2Cppmscorlib.dll</HintPath>
+		</Reference>
+		<Reference Include="Unity.TextMeshPro">
+			<HintPath>..\UnhollowedDlls\Unity.TextMeshPro.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>..\UnhollowedDlls\UnityEngine.CoreModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.UI">
+			<HintPath>..\UnhollowedDlls\UnityEngine.UI.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.UIModule">
+			<HintPath>..\UnhollowedDlls\UnityEngine.UIModule.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>
