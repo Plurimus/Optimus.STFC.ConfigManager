@@ -18,8 +18,8 @@ The mod's logic is
 - make a link file to `prime.exe` and start the game client through it to avoid automatic updates 
 
 ## Result screenshots
-![Configuration manager](Screenshot.gif)
-![Configuration manager](Screenshot1.PNG)
-![Configuration manager](Screenshot2.PNG)
-![Configuration manager](Screenshot3.PNG)
-![Configuration manager](Screenshot4.PNG)
+![ComMod Configuration manager gif](Screenshot.gif)
+![ComMod Configuration manager png 1](Screenshot1.PNG)
+![ComMod Configuration manager png 2](Screenshot2.PNG)
+![ComMod Configuration manager png 3](Screenshot3.PNG)
+![ComMod Configuration manager png 4](Screenshot4.PNG)
