@@ -1,0 +1,1 @@
+# Optimus.STFC.ConfigManager
