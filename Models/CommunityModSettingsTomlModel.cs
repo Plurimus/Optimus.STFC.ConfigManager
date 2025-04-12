@@ -243,6 +243,9 @@ namespace Optimus.STFC.ConfigManager.Models
             [DataMember(Name = "action_primary")]
             public string? action_primary { get; set; }
 
+            [DataMember(Name = "action_queue")]
+            public string? action_queue { get; set; }
+
             [DataMember(Name = "action_recall")]
             public string? action_recall { get; set; }
 
